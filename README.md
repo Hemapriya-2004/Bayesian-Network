@@ -25,9 +25,9 @@ Register Number:212221230036
 ```
 ```
 
-import pandas as pd # for data manipulation
-import networkx as nx # for drawing graphs
-import matplotlib.pyplot as plt # for drawing graphs
+import pandas as pd 
+import networkx as nx 
+import matplotlib.pyplot as plt 
 # for creating Bayesian Belief Networks (BBN)
 from pybbn.graph.dag import Bbn
 from pybbn.graph.edge import Edge, EdgeType
